@@ -73,7 +73,7 @@
 
 ### 6.1 In-Scope (MVP)
 - تطبيق Flutter (iOS + Android) – عربي/إنجليزي + RTL.  
-- 4 فئات خدمة أساسية (تصوير، تصميم، مودل).  
+- 3 فئات خدمة أساسية (تصوير، تصميم، مودل).  
 - Auth: هاتف أو إيميل + OTP.  
 - مدفوعات: ZainCash، Visa/Master، FastPay، First Bank Iraq، Nass Wallet، COD.  
 - نظام Escrow أوتوماتيكي.  
