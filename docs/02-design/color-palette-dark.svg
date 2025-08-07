@@ -2,6 +2,7 @@
 <svg viewBox="0 0 500 160" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
   <title>Dark Color Palette</title>
   <desc>Primary, secondary, background and border colors for dark mode of Wasat.</desc>
+  <rect width="500" height="160" x="0" y="0" fill="#0D1117"/>
   <!-- Swatches -->
   <rect width="70" height="70" x="10" y="10" fill="#55C34D" />
   <rect width="70" height="70" x="90" y="10" fill="#2F7A2B" />

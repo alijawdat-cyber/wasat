@@ -33,9 +33,15 @@
 | BG Dark | `#121212` | خلفية الوضع الداكن. |
 | Border | `#E0E0E0` | حدود Inputs والبطاقات.
 
-### معاينة بصرية  
-![Light Palette](color-palette-light.svg)  
-![Dark Palette](color-palette-dark.svg) |
+### 2.1 معاينة الوضع الفاتح
+<p align="center">
+  <img src="color-palette-light.svg" width="600" alt="لوحة ألوان الوضع الفاتح">
+</p>
+
+### 2.2 معاينة الوضع الداكن
+<p align="center">
+  <img src="color-palette-dark.svg" width="600" alt="لوحة ألوان الوضع الداكن">
+</p>
 
 ---
 
