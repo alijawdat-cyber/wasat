@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="160" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 500 160" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <title>Typography Samples</title>
+  <desc>Arabic Cairo and Latin Montserrat typography samples for Wasat.</desc>
   <style>
     .cairo-bold { font-family: 'Cairo', sans-serif; font-weight: 700; font-size: 28px; }
     .cairo-regular { font-family: 'Cairo', sans-serif; font-weight: 400; font-size: 20px; }

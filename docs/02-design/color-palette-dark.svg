@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="140" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" font-size="12">
+<svg viewBox="0 0 500 140" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" font-size="12">
+  <title>Dark Color Palette</title>
+  <desc>Primary, secondary, background and border colors for dark mode of Wasat.</desc>
   <rect width="70" height="70" x="10" y="10" fill="#55C34D"/>
-  <text x="10" y="100" fill="#FAFAFA">Primary #55C34D</text>
+  <text x="10" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Primary #55C34D</text>
 
   <rect width="70" height="70" x="90" y="10" fill="#2F7A2B"/>
-  <text x="90" y="100" fill="#FAFAFA">Primary Dark #2F7A2B</text>
+  <text x="90" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Primary Dark #2F7A2B</text>
 
   <rect width="70" height="70" x="170" y="10" fill="#F2C94C"/>
-  <text x="170" y="100" fill="#FAFAFA">Secondary #F2C94C</text>
+  <text x="170" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Secondary #F2C94C</text>
 
   <rect width="70" height="70" x="250" y="10" fill="#121212" stroke="#333"/>
-  <text x="250" y="100" fill="#FAFAFA">BG Dark #121212</text>
+  <text x="250" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">BG Dark #121212</text>
 
-  <rect width="70" height="70" x="330" y="10" fill="#FAFAFA" stroke="#999"/>
-  <text x="330" y="100" fill="#FAFAFA">Text Light #FAFAFA</text>
+  <rect width="70" height="70" x="330" y="10" fill="#FAFAFA" stroke="#000" stroke-width="0.5" stroke="#999"/>
+  <text x="330" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Text Light #FAFAFA</text>
 
   <rect width="70" height="70" x="410" y="10" fill="#E0E0E0"/>
-  <text x="410" y="100" fill="#FAFAFA">Border #E0E0E0</text>
+  <text x="410" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Border #E0E0E0</text>
 </svg>

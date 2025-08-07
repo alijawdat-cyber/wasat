@@ -31,7 +31,11 @@
 | Text Light | `#FAFAFA` | نص على الخلفية الداكنة. |
 | BG Light | `#FFFFFF` | خلفية الوضع الفاتح. |
 | BG Dark | `#121212` | خلفية الوضع الداكن. |
-| Border | `#E0E0E0` | حدود Inputs والبطاقات. |
+| Border | `#E0E0E0` | حدود Inputs والبطاقات.
+
+### معاينة بصرية  
+![Light Palette](color-palette-light.svg)  
+![Dark Palette](color-palette-dark.svg) |
 
 ---
 
@@ -45,6 +49,11 @@
 | Body | Regular | Regular | 400 | 16 px |
 | Caption | Light | Light | 300 | 14 px |
 | Button | SemiBold | SemiBold | 600 | 16 px |
+
+### عينات الخط  
+<p align="center">
+  <img src="typography.svg" width="460" alt="عينات الخط">
+</p>
 
 - واجهة عربية تستخدم RTL.
 - تُعرف العائلات في `pubspec.yaml` وتطبّق عبر `TextTheme`.
