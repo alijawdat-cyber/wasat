@@ -5,7 +5,7 @@
 ```mermaid
 graph TD
   subgraph موبايل
-    A[Flutter App\n\niOS & Android]
+    A["Flutter App<br/>iOS & Android"]
   end
 
   subgraph Firebase
@@ -18,15 +18,15 @@ graph TD
 
   subgraph دفع محلي
     C1[Wayl Gateway]
-    C2[ZainCash / FastPay\nVisa/Master / Nass Wallet]
+    C2["ZainCash / FastPay<br/>Visa/Master / Nass Wallet"]
   end
 
   subgraph بلوكچين
-    D[Smart Contract\n(Smart Quartez)\nPolygon]
+    D["Smart Contract<br/>(Smart Quartez)<br/>Polygon"]
   end
 
   subgraph ويب
-    E[Admin Panel\n(React)]
+    E["Admin Panel<br/>(React)"]
   end
 
   %% الاتصالات
