@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .cairo-bold { font-family: 'Cairo', sans-serif; font-weight: 700; font-size: 28px; }
+    .cairo-regular { font-family: 'Cairo', sans-serif; font-weight: 400; font-size: 20px; }
+    .mont-bold { font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 28px; }
+    .mont-regular { font-family: 'Montserrat', sans-serif; font-weight: 400; font-size: 20px; }
+  </style>
+  <text x="10" y="40" class="cairo-bold">عنوان عربي Cairo Bold</text>
+  <text x="10" y="75" class="cairo-regular">نص عربي Cairo Regular</text>
+  <text x="10" y="115" class="mont-bold">Latin Heading Montserrat Bold</text>
+  <text x="10" y="150" class="mont-regular">Latin body Montserrat Regular</text>
+</svg>

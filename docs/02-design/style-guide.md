@@ -78,13 +78,9 @@
 
 ---
 
-## 6. أمثلة وضع الفاتح والداكن
+## 6. لقطات الشاشة
 
-| Light | Dark |
-| --- | --- |
-| ![home-light](../../assets/images/home-light-placeholder.png) | ![home-dark](../../assets/images/home-dark-placeholder.png) |
-
-*صور placeholders تتبدل بتصاميم المصمم لاحقاً.*
+*لقطات فعلية من التطبيق ستُضاف لاحقاً بعد اكتمال التصميم النهائي.*
 
 ---
 
