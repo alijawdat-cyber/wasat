@@ -12,12 +12,12 @@ graph TD
     B1[Auth]
     B2[Firestore]
     B3[Storage]
-    B4[Cloud Functions (Node18)]
+    B4["Cloud Functions (Node18)"]
     B5[Analytics]
   end
 
   subgraph "دفع محلي"
-    C1[Wayl Gateway]
+    C1["Wayl Gateway"]
     C2["ZainCash / FastPay<br/>Visa/Master / Nass Wallet"]
   end
 
