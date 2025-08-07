@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 500 140" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" font-size="12">
+<svg viewBox="0 0 500 160" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
   <title>Dark Color Palette</title>
   <desc>Primary, secondary, background and border colors for dark mode of Wasat.</desc>
-  <rect width="70" height="70" x="10" y="10" fill="#55C34D"/>
-  <text x="10" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Primary #55C34D</text>
+  <!-- Swatches -->
+  <rect width="70" height="70" x="10" y="10" fill="#55C34D" />
+  <rect width="70" height="70" x="90" y="10" fill="#2F7A2B" />
+  <rect width="70" height="70" x="170" y="10" fill="#F2C94C" />
+  <rect width="70" height="70" x="250" y="10" fill="#121212" stroke="#333" />
+  <rect width="70" height="70" x="330" y="10" fill="#FAFAFA" stroke="#999" />
+  <rect width="70" height="70" x="410" y="10" fill="#E0E0E0" />
 
-  <rect width="70" height="70" x="90" y="10" fill="#2F7A2B"/>
-  <text x="90" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Primary Dark #2F7A2B</text>
-
-  <rect width="70" height="70" x="170" y="10" fill="#F2C94C"/>
-  <text x="170" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Secondary #F2C94C</text>
-
-  <rect width="70" height="70" x="250" y="10" fill="#121212" stroke="#333"/>
-  <text x="250" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">BG Dark #121212</text>
-
-  <rect width="70" height="70" x="330" y="10" fill="#FAFAFA" stroke="#000" stroke-width="0.5" stroke="#999"/>
-  <text x="330" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Text Light #FAFAFA</text>
-
-  <rect width="70" height="70" x="410" y="10" fill="#E0E0E0"/>
-  <text x="410" y="100" fill="#FAFAFA" stroke="#000" stroke-width="0.5">Border #E0E0E0</text>
+  <!-- Labels (two-line with smaller font to prevent overlap) -->
+  <g fill="#FAFAFA" stroke="#000" stroke-width="0.4" font-size="10">
+    <text x="10"  y="100"><tspan x="10"  dy="0">Primary</tspan><tspan x="10"  dy="12">#55C34D</tspan></text>
+    <text x="90"  y="100"><tspan x="90"  dy="0">Primary Dark</tspan><tspan x="90"  dy="12">#2F7A2B</tspan></text>
+    <text x="170" y="100"><tspan x="170" dy="0">Secondary</tspan><tspan x="170" dy="12">#F2C94C</tspan></text>
+    <text x="250" y="100"><tspan x="250" dy="0">BG Dark</tspan><tspan x="250" dy="12">#121212</tspan></text>
+    <text x="330" y="100"><tspan x="330" dy="0">Text Light</tspan><tspan x="330" dy="12">#FAFAFA</tspan></text>
+    <text x="410" y="100"><tspan x="410" dy="0">Border</tspan><tspan x="410" dy="12">#E0E0E0</tspan></text>
+  </g>
 </svg>

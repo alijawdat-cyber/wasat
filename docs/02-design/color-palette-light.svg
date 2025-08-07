@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 500 140" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" font-size="12">
+<svg viewBox="0 0 500 160" width="100%" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
   <title>Light Color Palette</title>
-  <desc>Primary, secondary, error, success and background colors for light mode of Wasat.</desc>
-  <rect width="70" height="70" x="10" y="10" fill="#55C34D"/>
-  <text x="10" y="100">Primary #55C34D</text>
+  <desc>Primary, primary light, secondary, error, success and background colors for light mode of Wasat.</desc>
+  <!-- Swatches -->
+  <rect width="70" height="70" x="10"  y="10" fill="#55C34D" />
+  <rect width="70" height="70" x="90"  y="10" fill="#C9F5C5" stroke="#999" />
+  <rect width="70" height="70" x="170" y="10" fill="#F2C94C" />
+  <rect width="70" height="70" x="250" y="10" fill="#E74C3C" />
+  <rect width="70" height="70" x="330" y="10" fill="#27AE60" />
+  <rect width="70" height="70" x="410" y="10" fill="#FFFFFF" stroke="#ccc" />
 
-  <rect width="70" height="70" x="90" y="10" fill="#C9F5C5" stroke="#999"/>
-  <text x="90" y="100">Primary Light #C9F5C5</text>
-
-  <rect width="70" height="70" x="170" y="10" fill="#F2C94C"/>
-  <text x="170" y="100">Secondary #F2C94C</text>
-
-  <rect width="70" height="70" x="250" y="10" fill="#E74C3C"/>
-  <text x="250" y="100">Error #E74C3C</text>
-
-  <rect width="70" height="70" x="330" y="10" fill="#27AE60"/>
-  <text x="330" y="100">Success #27AE60</text>
-
-  <rect width="70" height="70" x="410" y="10" fill="#FFFFFF" stroke="#ccc"/>
-  <text x="410" y="100">BG Light #FFFFFF</text>
+  <!-- Labels (two-line to avoid overlap) -->
+  <g fill="#333333" font-size="10">
+    <text x="10"  y="100"><tspan x="10"  dy="0">Primary</tspan><tspan x="10"  dy="12">#55C34D</tspan></text>
+    <text x="90"  y="100"><tspan x="90"  dy="0">Primary Light</tspan><tspan x="90"  dy="12">#C9F5C5</tspan></text>
+    <text x="170" y="100"><tspan x="170" dy="0">Secondary</tspan><tspan x="170" dy="12">#F2C94C</tspan></text>
+    <text x="250" y="100"><tspan x="250" dy="0">Error</tspan><tspan x="250" dy="12">#E74C3C</tspan></text>
+    <text x="330" y="100"><tspan x="330" dy="0">Success</tspan><tspan x="330" dy="12">#27AE60</tspan></text>
+    <text x="410" y="100"><tspan x="410" dy="0">BG Light</tspan><tspan x="410" dy="12">#FFFFFF</tspan></text>
+  </g>
 </svg>
